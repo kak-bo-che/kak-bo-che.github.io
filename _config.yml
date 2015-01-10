@@ -1,0 +1,13 @@
+# Site settings
+title: 1000 hours of CNC
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  kak-bo-che
+
+# Build settings
+markdown: kramdown
+exclude: [vendor]
