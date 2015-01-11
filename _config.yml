@@ -1,11 +1,12 @@
 # Site settings
 title: 1000 hours of CNC
-email: your-email@domain.com
+email: kak.bo.che@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
+  3d printers, Laser Engravers, CNC Routers, paper cutters and plotters. I have access to some of these tools, but I'm no expert.
+  I'm setting a goal of 1000 hours of occupying my time with these tools and everything associated with them.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+url: "http://http://kak-bo-che.github.io/" # the base hostname & protocol for your site
 github_username:  kak-bo-che
 
 # Build settings
