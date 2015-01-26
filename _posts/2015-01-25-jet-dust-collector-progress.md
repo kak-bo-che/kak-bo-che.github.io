@@ -5,7 +5,9 @@ categories: cnc
 tags: [dust collector, sketchup make]
 minutes_spend: 180
 ---
-![OpenSCAM Dryrun](/images/{{ page.date | date:"%Y-%m-%d" }}/wall_mount_redesign.jpg)
+![Redesigned Mount](/images/{{ page.date | date:"%Y-%m-%d" }}/wall_mount_redesign.jpg)
+
+[STL Rendering](https://github.com/kak-bo-che/kak-bo-che.github.io/blob/master/images/2015-01-25/wall_mount_redesign.stl)
 
 ## Cutting Wood and Making a Mess
 I failed to snap measurements to 1/4 of an inch in SketchUp which make the cuts come out with a resolution of 64ths, which isn't terribly useful for the reality of cutting dimensional lumber. I improvised and used the design, but with some modifications. 
