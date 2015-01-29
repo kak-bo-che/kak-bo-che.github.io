@@ -42,7 +42,7 @@ The close up of the actual cut paths looks very similar to the cuts from MakerCA
 ### Resulting GCODE
 Twice as long as MakerCAM for some reason.
 
-{% highlight asm %}
+{% highlight nasm linenos %}
 G21
 G90
 G1 Z3.810 F228.6

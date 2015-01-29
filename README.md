@@ -1,0 +1,1 @@
+convert -delay 240 -loop 0 [01][0-9].png easel.gif
