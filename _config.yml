@@ -13,4 +13,3 @@ github_username:  kak-bo-che
 markdown: kramdown
 exclude: [vendor]
 paginate: 4
-
