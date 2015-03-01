@@ -28,7 +28,7 @@ arcMotion = function(example_name){
     } else {
       arcDemo = SVG(example_name).size(200, 200).attr('id', example_name + '_');
     }
-    var rect = arcDemo.rect(150,150).move(half_width,half_width).stroke({width:1}).fill('none')
+    var rect = arcDemo.rect(150,150).move(half_width,half_width).stroke({width:1}).fill('blue')
 
     showArc(arcDemo);
     showToolPath(arcDemo);
@@ -81,7 +81,7 @@ segmentMotion = function(example_name, num_segments){
     } else {
       arcDemo = SVG(example_name).size(200, 200).attr('id', example_name + '_');
     }
-    var rect = arcDemo.rect(150,150).move(half_width,half_width).stroke({width:1}).fill('none')
+    var rect = arcDemo.rect(150,150).move(half_width,half_width).stroke({width:1}).fill('blue')
     var segments = showSegments(arcDemo, num_segments);
     showToolPath(arcDemo, segments);
 }
