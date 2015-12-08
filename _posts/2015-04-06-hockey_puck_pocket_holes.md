@@ -12,9 +12,8 @@ Ideally, I would have a template and plunge router to create a pocket in the tab
 
 ## Materials
 
-* [1/4" (Dia.) Down Spiral Bit](http://www.amazon.com/Dia-Down-Spiral-Bit/dp/B00004T7K3) ![router bit](/images/{{ page.date | date:"%Y-%m-%d" }}/router_bit_small.jpg) Found this at Home Depot for $20
-* [Router Template Guides](http://www.amazon.com/PORTER-CABLE-42000-9-Piece-Template-Guide/dp/B0000222V1) ![router guide](/images/{{ page.date | date:"%Y-%m-%d" }}/router_guide_small.jpg)
- I don't actually have this kit I have 2 templates that came with a dovetail jig I bought off of craigslist.
+* [1/4" (Dia.) Down Spiral Bit](http://www.amazon.com/Dia-Down-Spiral-Bit/dp/B00004T7K3) Found this at Home Depot for $20 ![router bit](/images/{{ page.date | date:"%Y-%m-%d" }}/router_bit_small.jpg){: .center-image }
+* [Router Template Guides](http://www.amazon.com/PORTER-CABLE-42000-9-Piece-Template-Guide/dp/B0000222V1)  I don't actually have this kit I have 2 templates that came with a dovetail jig I bought off of craigslist. ![router guide](/images/{{ page.date | date:"%Y-%m-%d" }}/router_guide_small.jpg)
 * [1/4" Cast Acrylic](http://www.amazon.com/gp/product/B009AEAG2E/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
 
 ## Template Design
