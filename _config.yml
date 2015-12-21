@@ -12,4 +12,4 @@ github_username:  kak-bo-che
 # Build settings
 markdown: kramdown
 exclude: [vendor]
-paginate: 4
+paginate: 10

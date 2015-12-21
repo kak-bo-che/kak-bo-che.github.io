@@ -8,14 +8,12 @@ layout: default
   <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         <span class="post-meta">
         {{ post.date | date: "%b %-d, %Y" }}
-        <i class='timespent'>{% if post.minutes_spend %} {{ post.minutes_spend }} minutes{% endif %}</i>
+        <i class='timespent'>{% if post.minutes_spend %} {{ post.minutes_spend }}m{% endif %}</i>
         </span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
       </li>
     {% endfor %}
   </ul>
